@@ -1,3 +1,3 @@
 # c-
-Parking lot management system(c++)
+c++ 停车场管理系统
 这是一个基于c++编写的停车场管理系统。
